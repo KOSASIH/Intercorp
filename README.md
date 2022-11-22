@@ -40,3 +40,28 @@ InterCorp Smart API Creator, Builder and developer technology system: InterCorp 
 Smart API Creator, Build and developer technology system. A comprehensive Platform for businesses and freelancers in seamless connectivity with each other. Meeting the ever growing needs of software development needs for companies and individual developers at one place is the paramount importance at InterCorp. We strive to provide customized solutions that meet the growing needs of a company, be it a simple web application or a complicated multi-tiered application stack, built using various popular frameworks like .Net, Java and so forth.
 
 The Intercorp API Creator is the only tool on the market to simplify the process for creating and deploying smart APIs to any digital channel. The Intercorp API Creator is a simple, powerful yet free platform that enables anyone, regardless of background or skill level, to create, deploy, manage and measure their own digital APIs quickly, seamlessly and confidently. We've enabled thousands of small businesses to launch brand new channels such as chat bots.
+
+# Site
+
+Environment : prod-intercorp
+Tool & Servive  
+1) Dashboard  : http://intercorp.apiplatform.io/
+2) Devex      : http://intercorp.devex.apiplatform.io/
+3) Apigateway : http://intercorp.gateway.apiplatform.io/
+4) Storage    : https://s3.amazonaws.com/intercorp.apiplatform.io
+
+Environment : staging-intercorp
+Tool & Service
+1) Dashboard  : http://staging-intercorp.apiplatform.io/
+2) Devex      : http://staging-intercorp.devex.apiplatform.io/
+3) Apigateway : http://staging-intercorp.gateway.apiplatform.io/
+4) Storage    : https://s3.amazonaws.com/staging-intercorp.apiplatform.io
+
+Environment : qa-intercorp
+Tool & Service
+1) Dashboard  : http://qa-intercorp.apiplatform.io/
+2) Devex      : http://qa-intercorp.devex.apiplatform.io/
+3) Apigateway : http://qa-intercorp.gateway.apiplatform.io/
+4) Storage    : https://s3.amazonaws.com/qa-intercorp.apiplatform.io
+
+
