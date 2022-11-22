@@ -44,6 +44,7 @@ The Intercorp API Creator is the only tool on the market to simplify the process
 # Site
 
 Environment : prod-intercorp
+
 Tool & Servive  
 1) Dashboard  : http://intercorp.apiplatform.io/
 2) Devex      : http://intercorp.devex.apiplatform.io/
@@ -51,6 +52,7 @@ Tool & Servive
 4) Storage    : https://s3.amazonaws.com/intercorp.apiplatform.io
 
 Environment : staging-intercorp
+
 Tool & Service
 1) Dashboard  : http://staging-intercorp.apiplatform.io/
 2) Devex      : http://staging-intercorp.devex.apiplatform.io/
@@ -58,6 +60,7 @@ Tool & Service
 4) Storage    : https://s3.amazonaws.com/staging-intercorp.apiplatform.io
 
 Environment : qa-intercorp
+
 Tool & Service
 1) Dashboard  : http://qa-intercorp.apiplatform.io/
 2) Devex      : http://qa-intercorp.devex.apiplatform.io/
