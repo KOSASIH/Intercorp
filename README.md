@@ -1,6 +1,7 @@
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Intercorp.svg/?label=active+issues&show_trend=true&token=kLB0YCpZMqv7076Jmjdrf-Hg)](https://deepsource.io/gh/KOSASIH/Intercorp/?ref=repository-badge)
 [![Jekyll site CI](https://github.com/KOSASIH/Intercorp/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/KOSASIH/Intercorp/actions/workflows/jekyll-docker.yml)
 [![CI](https://github.com/KOSASIH/Intercorp/actions/workflows/blank.yml/badge.svg)](https://github.com/KOSASIH/Intercorp/actions/workflows/blank.yml)
+[![puppet-lint](https://github.com/KOSASIH/Intercorp/actions/workflows/puppet-lint.yml/badge.svg)](https://github.com/KOSASIH/Intercorp/actions/workflows/puppet-lint.yml)
 
 # Intercorp
 
