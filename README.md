@@ -6,6 +6,7 @@
 [![Documentation Status](https://readthedocs.org/projects/intercorp/badge/?version=latest)](https://intercorp.readthedocs.io/en/latest/?badge=latest)
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/KOSASIH/Intercorp/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KOSASIH/Intercorp/tree/main)
 [![Dependency Review](https://github.com/KOSASIH/Intercorp/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/KOSASIH/Intercorp/actions/workflows/dependency-review.yml)
+[![Greetings](https://github.com/KOSASIH/Intercorp/actions/workflows/greetings.yml/badge.svg)](https://github.com/KOSASIH/Intercorp/actions/workflows/greetings.yml)
 
 # Intercorp
 
