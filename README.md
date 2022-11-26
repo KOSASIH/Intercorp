@@ -3,7 +3,8 @@
 [![CI](https://github.com/KOSASIH/Intercorp/actions/workflows/blank.yml/badge.svg)](https://github.com/KOSASIH/Intercorp/actions/workflows/blank.yml)
 [![puppet-lint](https://github.com/KOSASIH/Intercorp/actions/workflows/puppet-lint.yml/badge.svg)](https://github.com/KOSASIH/Intercorp/actions/workflows/puppet-lint.yml)
 [![njsscan sarif](https://github.com/KOSASIH/Intercorp/actions/workflows/njsscan.yml/badge.svg)](https://github.com/KOSASIH/Intercorp/actions/workflows/njsscan.yml)
-
+[![Documentation Status](https://readthedocs.org/projects/intercorp/badge/?version=latest)](https://intercorp.readthedocs.io/en/latest/?badge=latest)
+      
 # Intercorp
 
 Smart API Creator, Builder and developer technology system.
