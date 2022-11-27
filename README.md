@@ -1,7 +1,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
 
-
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Intercorp.svg/?label=active+issues&show_trend=true&token=kLB0YCpZMqv7076Jmjdrf-Hg)](https://deepsource.io/gh/KOSASIH/Intercorp/?ref=repository-badge)
 [![Jekyll site CI](https://github.com/KOSASIH/Intercorp/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/KOSASIH/Intercorp/actions/workflows/jekyll-docker.yml)
 [![CI](https://github.com/KOSASIH/Intercorp/actions/workflows/blank.yml/badge.svg)](https://github.com/KOSASIH/Intercorp/actions/workflows/blank.yml)
