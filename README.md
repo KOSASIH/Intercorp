@@ -1,5 +1,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=KOSASIH&row=1)](https://github.com/KOSASIH/github-profile-trophy)
 
 
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Intercorp.svg/?label=active+issues&show_trend=true&token=kLB0YCpZMqv7076Jmjdrf-Hg)](https://deepsource.io/gh/KOSASIH/Intercorp/?ref=repository-badge)
